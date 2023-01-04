@@ -1,0 +1,35 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./image/img1.jpg);
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./image/img2.jpg);
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./image/img3.jpg);
+}
+.carousel-item {
+  height: 75vh;
+}
+.carousel-caption {
+  text-align: start;
+}
+#carouselExampleCaptions {
+  height: 90vh;
+}
+.container {
+  height: 10vh;
+}
+.uu {
+  display: flex;
+  justify-self: start;
+  text-decoration-color: blue;
+}
+.uu a {
+  color: blue;
+}
